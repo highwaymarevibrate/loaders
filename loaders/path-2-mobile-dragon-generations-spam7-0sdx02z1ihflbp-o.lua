@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/path-2-mobile-dragon-generations-spam7-0sdx02z1ihflbp.lua"))()
