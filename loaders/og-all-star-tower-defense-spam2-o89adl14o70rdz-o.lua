@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/og-all-star-tower-defense-spam2-o89adl14o70rdz.lua"))()
